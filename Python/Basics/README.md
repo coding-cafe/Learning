@@ -1,13 +1,14 @@
 # Python is a popular programming language. Python can be used on a server to create web applications.
 
 # What is Python?
-# Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+  Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
 
 # It is used for: 
-# web development (server-side),
-# software development,
-# mathematics,
-# system scripting.
+*web development (server-side)
+*software development
+*mathematics
+*system scripting
+
 # What can Python do?
 # Python can be used on a server to create web applications.
 # Python can be used alongside software to create workflows.
